@@ -1,0 +1,18 @@
+.composition {
+  &__photo {
+    width: 300px;
+    position: absolute;
+
+    &--p1 {
+      right: 20rem;
+    }
+
+    &--p2 {
+top: 10rem;
+    }
+
+    &--p3 {
+
+    }
+  }
+}
